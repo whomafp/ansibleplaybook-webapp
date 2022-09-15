@@ -1,0 +1,8 @@
+---
+mysql_user: "root"
+mysql_user_password: " "
+app_user: "whomafp"
+http_host: "www.mfonseca.com"
+http_conf: "www.mfonseca.com.conf"
+http_port: "80"
+disable_default: true
